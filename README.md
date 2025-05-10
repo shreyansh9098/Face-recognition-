@@ -19,7 +19,10 @@ You can view the attendance after clicking View Attendance button. It will show 
 
 # Screenshots
 Simple UI
-![image](https://github.com/user-attachments/assets/3b0cb3f3-d265-4f4c-9c60-be532030bade)
+![image](https://github.com/user-attachments/assets/e214c900-c606-4e7e-bf40-1cda57e82094)
+
+# Attendance in tabular format
+![image](https://github.com/user-attachments/assets/1d9aeac7-8836-42c4-bb5d-1341928d0d9c)
 
 
 
